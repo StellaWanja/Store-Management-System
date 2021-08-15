@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jiNr5G1M9dLVzsU3ff93z6eAsLFzup9H3Rw08rV7k56f7bYOuHw2oGex/oGwp8gyG5L4Aba8X55fsHFlAQl/5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wanja\\Desktop\\PROJECTS\\Store-Management-System\\Management.UI\\Management.UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wanja\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\wanja\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
